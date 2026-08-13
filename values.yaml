@@ -1,0 +1,4 @@
+statefulset:
+  replicas: 1
+  imageRepo: imranjoindevops/mongodb
+  imageversion: 4.0.0
